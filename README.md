@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Abdulmalek 👋
+# Hi, I'm Abdul Malek 👋
 
 Software engineer interested in backend systems, applied ML, and building things end-to-end
 — from a data model up through a working UI.
