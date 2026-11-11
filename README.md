@@ -44,9 +44,3 @@ section spelling out what it deliberately does and doesn't do.
   check any repo's closed PRs to see the incremental build-out.
 - **Honest scope.** If something is simplified or simulated (a mock dataset, an in-memory
   rate limiter, a rule-based stand-in for a real model), it's documented, not hidden.
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulmalekazouz&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-</div>
